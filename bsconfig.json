@@ -1,0 +1,10 @@
+{
+    "name": "reason-try",
+    "reason": {
+        "react-jsx": 2
+    },
+    "bs-dependencies": ["bs-react-native", "reason-react"],
+    "sources": [{
+        "dir": "src"
+    }]
+}
